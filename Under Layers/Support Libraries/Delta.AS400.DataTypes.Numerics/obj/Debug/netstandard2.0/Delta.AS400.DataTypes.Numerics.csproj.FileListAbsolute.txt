@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\bin\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\bin\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\bin\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.DataTypes.Numerics\obj\Debug\netstandard2.0\Delta.AS400.DataTypes.Numerics.pdb

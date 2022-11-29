@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\bin\Debug\net5.0\Delta.Guis.Domain.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\bin\Debug\net5.0\Delta.Guis.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\bin\Debug\net5.0\Delta.Guis.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\refint\Delta.Guis.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\Delta.Guis.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Guis.Domain\obj\Debug\net5.0\ref\Delta.Guis.Domain.dll

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0.6</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="DatabaseOperatedBySQLWithOleDb.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Delta.RelationalDatabases.Domain" Version="1.0.0.6" />
+		<PackageReference Include="System.Data.OleDb" Version="5.0.0" />
+	</ItemGroup>
+
+</Project>

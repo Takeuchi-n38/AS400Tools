@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\bin\Debug\net5.0\Delta.Extensions.SystemChar.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\bin\Debug\net5.0\Delta.Extensions.SystemChar.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\bin\Debug\net5.0\Delta.Extensions.SystemChar.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\refint\Delta.Extensions.SystemChar.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\Delta.Extensions.SystemChar.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemChar\obj\Debug\net5.0\ref\Delta.Extensions.SystemChar.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delta.Koubai01.Axs.Tools", "Delta.Koubai01.Axs.Tools\Delta.Koubai01.Axs.Tools.csproj", "{82241719-3925-4E25-B9B1-4EBCD676290F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82241719-3925-4E25-B9B1-4EBCD676290F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82241719-3925-4E25-B9B1-4EBCD676290F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82241719-3925-4E25-B9B1-4EBCD676290F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82241719-3925-4E25-B9B1-4EBCD676290F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77FBA73F-A151-48B0-90F8-FCB53060DC98}
+	EndGlobalSection
+EndGlobal

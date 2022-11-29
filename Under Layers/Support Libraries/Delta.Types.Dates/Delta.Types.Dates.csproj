@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Delta.Types.Dates</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0.6</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DateList.cs" />
+    <Compile Remove="DateRange.cs" />
+    <Compile Remove="DateRangeForWeek.cs" />
+  </ItemGroup>
+
+</Project>

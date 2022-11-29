@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.Extensions.PrismWpf</id>
+    <version>1.0.0.1</version>
+    <authors>Delta.Extensions.PrismWpf</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Prism.Unity" version="8.1.97" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\bin\Debug\net6.0-windows\Delta.Extensions.PrismWpf.dll" target="lib\net6.0-windows7.0\Delta.Extensions.PrismWpf.dll" />
+  </files>
+</package>

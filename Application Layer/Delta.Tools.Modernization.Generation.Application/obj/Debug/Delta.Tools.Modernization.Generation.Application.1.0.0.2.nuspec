@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.Tools.Modernization.Generation.Application</id>
+    <version>1.0.0.2</version>
+    <authors>Delta.Tools.Modernization.Generation.Application</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Delta.RelationalDatabases.Mssql" version="1.0.0.10" exclude="Build,Analyzers" />
+        <dependency id="Delta.RelationalDatabases.Postgres" version="1.0.0.13" exclude="Build,Analyzers" />
+        <dependency id="Delta.Tools.Modernization.Domain" version="1.0.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\bin\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.dll" target="lib\net6.0\Delta.Tools.Modernization.Generation.Application.dll" />
+  </files>
+</package>

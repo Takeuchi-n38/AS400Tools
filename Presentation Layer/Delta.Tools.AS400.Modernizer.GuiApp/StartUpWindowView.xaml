@@ -1,0 +1,174 @@
+﻿<Window x:Class="Delta.Tools.AS400.Modernizer.GuiApp.StartUpWindowView"
+        xmlns:local="clr-namespace:Delta.Tools.AS400.Modernizer.GuiApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        WindowStartupLocation="CenterScreen"
+        xmlns:prism="http://prismlibrary.com/"  
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        xmlns:misc="clr-namespace:Delta.Utilities.WindowsDesktop;assembly=Delta.Utilities.WindowsDesktop" 
+        misc:CloseWindowAttachedBehavior.Close="{Binding CloseWindow.Value}"
+        Background="Black" Height="576px" Width="960px"
+        >
+    <Window.InputBindings>
+        <KeyBinding Modifiers="Ctrl" Key="LeftCtrl" Command="{Binding WorkStationCommand.FunctionCommand}" CommandParameter="0" />
+        <KeyBinding Modifiers="Ctrl" Key="RightCtrl" Command="{Binding WorkStationCommand.FunctionCommand}" CommandParameter="0" />
+        <KeyBinding Key="F3" Command="{Binding WorkStationCommand.FunctionCommand}" CommandParameter="3" />
+    </Window.InputBindings>
+    <Viewbox>
+        <Grid Height="768px" Width="1280px">
+            <Grid.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="FontSize" Value="32px" />
+                    <Setter Property="FontFamily" Value="MS Mincho" />
+                </Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="FontSize" Value="32px" />
+                    <Setter Property="FontFamily" Value="MS Mincho" />
+                </Style>
+            </Grid.Resources>
+            <!--
+    A*****************************************************************
+    A*Ｃ＆Ｓ売買管理　一覧画面                                     *
+    A*****************************************************************
+    A*%%EC
+    A                                      DSPSIZ(24 80 *DS3)
+    A                                      PRINT(*LIBL/QPRINT)
+    A                                      CF03(03)
+-->
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Image Name="imgCircle" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                       Visibility="{Binding InProgress.Value,Converter={StaticResource BooleanToVisibilityConverter}}" Width="48" Height="48" 
+                       Grid.Row="0" Grid.RowSpan="24" Grid.Column="0" Grid.ColumnSpan="80" gif:ImageBehavior.AnimatedSource="pack://application:,,,/Images/circle.gif" />
+
+            <TextBox Foreground="{StaticResource COLOR_GRN}" CaretBrush="{StaticResource COLOR_GRN}" Background="Transparent" Grid.Row="20" Grid.Column="34" Grid.ColumnSpan="2" MaxLength="2" Text ="{Binding Ip.Value,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+
+            <TextBlock x:Name="pfkeyTextBlock"  Foreground="{StaticResource COLOR_YLW}" Grid.Row="22" Grid.Column="1" Grid.ColumnSpan="79" Text ="Binding Pfkey.Value}"></TextBlock>
+            <TextBlock x:Name="errmsgTextBlock"  Foreground="{StaticResource COLOR_WHT}" Grid.Row="23" Grid.Column="1" Grid.ColumnSpan="79" Text ="Binding Errmsg.Value}"></TextBlock>
+
+
+        </Grid>
+    </Viewbox>
+</Window>

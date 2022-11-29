@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Delta.Tools.AS400.Programs.CLs.Lines
+{
+    public class SndpgmmsgLine : CLLine
+    {
+        public readonly string Msgdta;
+        public SndpgmmsgLine(string aMsgdta, string joinedLine, int originalLineStartIndex,int originalLineEndIndex) : base(joinedLine, originalLineStartIndex, originalLineEndIndex)
+        {
+            this.Msgdta = aMsgdta;
+        }
+
+    }
+
+}

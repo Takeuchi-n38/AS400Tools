@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dq9xi81Xq7atiigAAK7/kW5lGj1ncS8bEGlKxMo8+7cs2YNY7fICtjsEBEeTYU/V8xjUeFwf4eeK5QaVQl/XHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemio\\1.0.0.4\\delta.extensions.systemio.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemstring\\1.0.0.3\\delta.extensions.systemstring.1.0.0.3.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.core\\1.0.0.9\\delta.as400.core.1.0.0.9.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.datatypes.characters\\1.0.0.4\\delta.as400.datatypes.characters.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.tools.modernization.paths.domain\\1.0.0.4\\delta.tools.modernization.paths.domain.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.types.fundamentals\\1.0.0.2\\delta.types.fundamentals.1.0.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

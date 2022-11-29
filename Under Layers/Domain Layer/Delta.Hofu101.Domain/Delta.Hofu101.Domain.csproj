@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>netstandard2.0</TargetFramework>
+	  <RootNamespace>Delta.Hofu101</RootNamespace>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <Version>1.0.0.2</Version>
+  </PropertyGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Delta.AS400.Core" Version="1.0.0.9" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Support Libraries\Delta.AS400.Core\Delta.AS400.Core.csproj" />
+	</ItemGroup>
+	
+</Project>

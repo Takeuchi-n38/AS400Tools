@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delta.Products.Domain/1.0.0.4": {
+        "runtime": {
+          "Delta.Products.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delta.Products.Domain/1.0.0.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

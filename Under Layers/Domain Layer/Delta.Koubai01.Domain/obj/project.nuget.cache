@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGCIWmzH4+VKWGY6jla9/BQ1V7+/XwBgPmj+LLlf2S0IzGkjU1Oxa4lIntCxj5J7xGql4FdLj8+fOLSxMhvApA==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Koubai01.Domain\\Delta.Koubai01.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.core\\1.0.0.9\\delta.as400.core.1.0.0.9.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

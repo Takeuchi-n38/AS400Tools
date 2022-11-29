@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.EntityTestHelpers\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Test.EntityTestHelpers.pdb

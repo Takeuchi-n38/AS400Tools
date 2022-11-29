@@ -1,0 +1,7 @@
+caller_pgmDepth,caller_pgmPartition,caller_pgmLibrary,caller_pgmName,caller_lineno,pgmDepth,pgmPartition,pgmLibrary,pgmName,pgmStepCount,pgmType,fileNo,filePartition,fileLibrary,fileName,cmdName/fileDevice,cmdPara/fileFormat,recordLength/fileStepCount,fileType,C,R,U,D,testTargetType,real_filePartition,real_ fileLibrary,real_ fileName
+0,-,-,-,-,1,KOUBAI01,BAALIB,JBAA15M0,112,CL,911,KOUBAI01,BAALIB,BAA050DK,CHKOBJ,OBJ,-,-,todo,todo,todo,todo,todo,KOUBAI01,BAALIB,BAA050DK
+0,-,-,-,-,1,KOUBAI01,BAALIB,JBAA15M0,112,CL,931,KOUBAI01,BAALIB,BAA050DK,DLTF,FILE,-,-,-,-,-,D,todo,KOUBAI01,BAALIB,BAA050DK
+0,-,-,-,-,1,KOUBAI01,BAALIB,JBAA15M0,112,CL,961,KOUBAI01,BAALIB,BAA060DK,CHKOBJ,OBJ,-,-,todo,todo,todo,todo,todo,KOUBAI01,BAALIB,BAA060DK
+0,-,-,-,-,1,KOUBAI01,BAALIB,JBAA15M0,112,CL,981,KOUBAI01,BAALIB,BAA060DK,DLTF,FILE,-,-,-,-,-,D,todo,KOUBAI01,BAALIB,BAA060DK
+0,-,-,-,-,1,KOUBAI01,BAALIB,JBAA15M0,112,CL,1011,UnknownPartition,WSVFLIB,JBAA20M0SV,RSTOBJ,SAVF,-,-,todo,todo,todo,todo,todo,UnknownPartition,WSVFLIB,JBAA20M0SV
+1,KOUBAI01,BAALIB,JBAA15M0,81,2,KOUBAI01,OPLIB,CYAE320,0,NotFoundSource,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

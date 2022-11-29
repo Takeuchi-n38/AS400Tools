@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Delta.AS400.Workstations</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IIsEnabled.cs" />
+    <Compile Remove="IIsOverlay.cs" />
+    <Compile Remove="IIsProtect.cs" />
+    <Compile Remove="IIsVisible.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fields\Boths\" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Delta.AS400.DataTypes.Characters" Version="1.0.0.4" />
+		<PackageReference Include="Delta.AS400.Indicators" Version="1.0.0.2" />
+		<PackageReference Include="Prism.Core" Version="8.1.97" />
+		<PackageReference Include="ReactiveProperty" Version="7.12.0" />
+	</ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\Delta.Guis.Domain\Delta.Guis.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\bin\Debug\netstandard2.0\Delta.Types.Fundamentals.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\bin\Debug\netstandard2.0\Delta.Types.Fundamentals.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\bin\Debug\netstandard2.0\Delta.Types.Fundamentals.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Fundamentals\obj\Debug\netstandard2.0\Delta.Types.Fundamentals.pdb

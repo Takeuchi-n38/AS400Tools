@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delta.AS400.Environments/1.0.0.5": {
+        "dependencies": {
+          "Delta.Types.Dates": "1.0.0.6"
+        },
+        "runtime": {
+          "Delta.AS400.Environments.dll": {}
+        }
+      },
+      "Delta.Types.Dates/1.0.0.6": {
+        "runtime": {
+          "lib/net6.0/Delta.Types.Dates.dll": {
+            "assemblyVersion": "1.0.0.6",
+            "fileVersion": "1.0.0.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delta.AS400.Environments/1.0.0.5": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delta.Types.Dates/1.0.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jePb4EMwgdleHk8KlBD9U6RWii35V2olIRV7Gy2WGk/119q9ET8mWK3oADSGWj8C8IfIgqRdsJ9ZpxIxTzkUxA==",
+      "path": "delta.types.dates/1.0.0.6",
+      "hashPath": "delta.types.dates.1.0.0.6.nupkg.sha512"
+    }
+  }
+}

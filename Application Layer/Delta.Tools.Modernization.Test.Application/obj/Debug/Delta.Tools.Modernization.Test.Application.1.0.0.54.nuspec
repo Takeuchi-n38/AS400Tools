@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.Tools.Modernization.Test.Application</id>
+    <version>1.0.0.54</version>
+    <authors>Delta.Tools.Modernization.Test.Application</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Delta.AS400.Adapters.Domain" version="1.0.0.2" exclude="Build,Analyzers" />
+        <dependency id="Delta.AS400.Core" version="1.0.0.9" exclude="Build,Analyzers" />
+        <dependency id="Delta.AS400.DataTypes.Characters" version="1.0.0.4" exclude="Build,Analyzers" />
+        <dependency id="Delta.RelationalDatabases.Db2fori" version="1.0.0.17" exclude="Build,Analyzers" />
+        <dependency id="Delta.RelationalDatabases.Mssql" version="1.0.0.10" exclude="Build,Analyzers" />
+        <dependency id="Delta.RelationalDatabases.Postgres" version="1.0.0.13" exclude="Build,Analyzers" />
+        <dependency id="Delta.Tools.Modernization.Paths.Domain" version="1.0.0.4" exclude="Build,Analyzers" />
+        <dependency id="Delta.Tools.Modernization.Test.EntityTestHelpers" version="1.0.0.1" exclude="Build,Analyzers" />
+        <dependency id="Delta.Types.Fundamentals" version="1.0.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Test.Application\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Test.Application.dll" target="lib\netstandard2.0\Delta.Tools.Modernization.Test.Application.dll" />
+  </files>
+</package>

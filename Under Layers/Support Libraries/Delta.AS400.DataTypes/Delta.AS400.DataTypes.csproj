@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Delta.AS400.DataTypes</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0.13</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Characters\CodePage290CodeTable.cs" />
+    <Compile Remove="Characters\CodePage300.cs" />
+    <Compile Remove="Characters\EbcdicCharacter.cs" />
+    <Compile Remove="Characters\EbcdicConverter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Delta.AS400.DataTypes.Characters" Version="1.0.0.3" />
+    <PackageReference Include="Delta.AS400.DataTypes.Numerics" Version="1.0.0.6" />
+  </ItemGroup>
+
+</Project>

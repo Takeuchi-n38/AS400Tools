@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\bin\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\bin\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\bin\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Postgres.pdb

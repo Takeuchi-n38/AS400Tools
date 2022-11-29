@@ -1,0 +1,15 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\bin\Debug\net5.0\Delta.AS400.Workstations.Domain.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\bin\Debug\net5.0\Delta.AS400.Workstations.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\bin\Debug\net5.0\Delta.AS400.Workstations.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\bin\Debug\net5.0\Delta.Guis.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\bin\Debug\net5.0\Delta.Guis.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.csproj.CopyComplete
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\refint\Delta.AS400.Workstations.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\Delta.AS400.Workstations.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\obj\Debug\net5.0\ref\Delta.AS400.Workstations.Domain.dll

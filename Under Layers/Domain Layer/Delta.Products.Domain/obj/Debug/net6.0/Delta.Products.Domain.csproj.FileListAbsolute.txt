@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\bin\Debug\net6.0\Delta.Products.Domain.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\bin\Debug\net6.0\Delta.Products.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\bin\Debug\net6.0\Delta.Products.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\refint\Delta.Products.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\Delta.Products.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Products.Domain\obj\Debug\net6.0\ref\Delta.Products.Domain.dll

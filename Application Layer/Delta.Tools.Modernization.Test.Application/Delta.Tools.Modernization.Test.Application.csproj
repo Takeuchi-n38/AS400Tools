@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<RootNamespace>Delta.Tools.Modernization.Test</RootNamespace>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0.53</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Delta.AS400.Adapters.Domain" Version="1.0.0.2" />
+	  <PackageReference Include="Delta.AS400.Core" Version="1.0.0.9" />
+	  <PackageReference Include="Delta.AS400.DataTypes.Characters" Version="1.0.0.4" />
+	  <PackageReference Include="Delta.RelationalDatabases.Db2fori" Version="1.0.0.17" />
+	  <PackageReference Include="Delta.RelationalDatabases.Mssql" Version="1.0.0.10" />
+	  <PackageReference Include="Delta.RelationalDatabases.Postgres" Version="1.0.0.13" />
+	  <PackageReference Include="Delta.Tools.Modernization.Paths.Domain" Version="1.0.0.4" />
+	  <PackageReference Include="Delta.Types.Fundamentals" Version="1.0.0.2" />
+	</ItemGroup>
+
+
+</Project>

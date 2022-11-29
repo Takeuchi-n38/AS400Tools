@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\bin\Debug\net5.0-windows\Delta.Guis.Wpf.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\bin\Debug\net5.0-windows\Delta.Guis.Wpf.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\bin\Debug\net5.0-windows\Delta.Guis.Wpf.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\refint\Delta.Guis.Wpf.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\Delta.Guis.Wpf.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\obj\Debug\net5.0-windows\ref\Delta.Guis.Wpf.dll

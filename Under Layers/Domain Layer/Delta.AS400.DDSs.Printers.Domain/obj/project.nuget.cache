@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWIOZ7yAAMDadB5qIW3WOM5s96gpaae0i/mqY5Pe5B/cAWC0tVQktAOOpM193jlTpJWWBPGfDRG2+avGAKV6sw==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\Delta.AS400.DDSs.Printers.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.datatypes.characters\\1.0.0.4\\delta.as400.datatypes.characters.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.ddss.domain\\1.0.0.11\\delta.as400.ddss.domain.1.0.0.11.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

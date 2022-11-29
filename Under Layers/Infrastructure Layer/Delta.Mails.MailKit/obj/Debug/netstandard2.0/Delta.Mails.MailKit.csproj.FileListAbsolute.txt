@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\bin\Debug\netstandard2.0\Delta.Mails.MailKit.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\bin\Debug\netstandard2.0\Delta.Mails.MailKit.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\bin\Debug\netstandard2.0\Delta.Mails.MailKit.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Mails.MailKit\obj\Debug\netstandard2.0\Delta.Mails.MailKit.pdb

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<RootNamespace>Delta.Tools.Modernization</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Sources\AS400\DDSs\DiskFiles\IDiskFileStructureFactory.cs" />
+		<Compile Remove="Sources\AS400\Programs\RPGs\Forms\Inputs\DSs\DsAliasNameItemLine3.cs" />
+		<Compile Remove="Sources\AS400\Programs\RPGs\Forms\Inputs\ProgramDescribedFiles\FieldDescriptionLine.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\Delta.Tools.Modernization.Paths.Domain.csproj" />
+	  <ProjectReference Include="..\..\Under Layers\Support Libraries\Delta.AS400.Core\Delta.AS400.Core.csproj" />
+	  <ProjectReference Include="..\..\Under Layers\Support Libraries\Delta.AS400.DataTypes.Characters\Delta.AS400.DataTypes.Characters.csproj" />
+	  <ProjectReference Include="..\..\Under Layers\Support Libraries\Delta.Types.Fundamentals\Delta.Types.Fundamentals.csproj" />
+	</ItemGroup>
+
+</Project>

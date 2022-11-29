@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<RootNamespace>Delta.Honsha01</RootNamespace>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0.9</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Delta.AS400.Core" Version="1.0.0.9" />
+	</ItemGroup>
+
+</Project>

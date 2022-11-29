@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.AS400.Environments</id>
+    <version>1.0.0.4</version>
+    <authors>Delta.AS400.Environments</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Delta.Types.Dates" version="1.0.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Environments\bin\Debug\net5.0\Delta.AS400.Environments.dll" target="lib\net5.0\Delta.AS400.Environments.dll" />
+  </files>
+</package>

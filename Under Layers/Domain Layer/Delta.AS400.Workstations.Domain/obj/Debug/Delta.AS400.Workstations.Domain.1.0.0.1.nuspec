@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.AS400.Workstations.Domain</id>
+    <version>1.0.0.1</version>
+    <authors>Delta.AS400.Workstations.Domain</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Delta.Guis.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Delta.AS400.DataTypes.Characters" version="1.0.0.4" exclude="Build,Analyzers" />
+        <dependency id="Delta.AS400.Indicators" version="1.0.0.2" exclude="Build,Analyzers" />
+        <dependency id="Prism.Core" version="8.1.97" exclude="Build,Analyzers" />
+        <dependency id="ReactiveProperty" version="7.12.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.AS400.Workstations.Domain\bin\Debug\net5.0\Delta.AS400.Workstations.Domain.dll" target="lib\net5.0\Delta.AS400.Workstations.Domain.dll" />
+  </files>
+</package>

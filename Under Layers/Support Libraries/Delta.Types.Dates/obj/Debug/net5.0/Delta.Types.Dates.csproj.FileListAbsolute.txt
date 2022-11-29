@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\bin\Debug\net5.0\Delta.Types.Dates.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\bin\Debug\net5.0\Delta.Types.Dates.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\bin\Debug\net5.0\Delta.Types.Dates.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\refint\Delta.Types.Dates.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\Delta.Types.Dates.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\obj\Debug\net5.0\ref\Delta.Types.Dates.dll

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IC1m59bf8aBaFG7n4PrgQI7jYfoGdN4XcmsWFaSVFRnrSWLvZWLDSjDox499CAwso1+/aEPzSyaw2DAa1NZAw==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.datatypes.characters\\1.0.0.4\\delta.as400.datatypes.characters.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.indicators\\1.0.0.2\\delta.as400.indicators.1.0.0.2.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.prismwpf\\1.0.0.1\\delta.extensions.prismwpf.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\reactiveproperty\\7.12.0\\reactiveproperty.7.12.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\reactiveproperty.core\\7.12.0\\reactiveproperty.core.7.12.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512"
+  ],
+  "logs": []
+}

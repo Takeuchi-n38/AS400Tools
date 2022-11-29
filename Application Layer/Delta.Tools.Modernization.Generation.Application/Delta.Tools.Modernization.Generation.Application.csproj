@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Delta.Tools.Modernization.Generation</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Mssql\Delta.RelationalDatabases.Mssql.csproj" />
+    <ProjectReference Include="..\..\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Postgres\Delta.RelationalDatabases.Postgres.csproj" />
+    <ProjectReference Include="..\Delta.Tools.Modernization.Generation.DIGenerator.Application\Delta.Tools.Modernization.Generation.DIGenerator.Application.csproj" />
+    <ProjectReference Include="..\Delta.Tools.Modernization.Generation.RepoGenerator.Application\Delta.Tools.Modernization.Generation.RepoGenerator.Application.csproj" />
+  </ItemGroup>
+
+</Project>

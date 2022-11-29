@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\bin\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Tools.Modernization.Paths.Domain\obj\Debug\netstandard2.0\Delta.Tools.Modernization.Paths.Domain.pdb

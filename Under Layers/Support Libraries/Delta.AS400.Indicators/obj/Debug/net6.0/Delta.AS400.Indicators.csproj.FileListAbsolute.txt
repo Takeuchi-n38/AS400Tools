@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\bin\Debug\net6.0\Delta.AS400.Indicators.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\bin\Debug\net6.0\Delta.AS400.Indicators.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\bin\Debug\net6.0\Delta.AS400.Indicators.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\refint\Delta.AS400.Indicators.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\Delta.AS400.Indicators.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.AS400.Indicators\obj\Debug\net6.0\ref\Delta.AS400.Indicators.dll

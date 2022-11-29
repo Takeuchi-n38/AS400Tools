@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Delta.Tools.AS400.Honsha01.Jj_lib</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Under Layers\Domain Layer\Delta.Honsha01.Domain\Delta.Honsha01.Domain.csproj" />
+    <ProjectReference Include="..\Delta.Tools.Modernization.Domain\Delta.Tools.Modernization.Domain.csproj" />
+  </ItemGroup>
+  
+</Project>

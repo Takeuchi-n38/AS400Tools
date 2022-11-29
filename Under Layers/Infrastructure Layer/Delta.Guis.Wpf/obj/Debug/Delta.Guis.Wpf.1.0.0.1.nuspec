@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.Guis.Wpf</id>
+    <version>1.0.0.1</version>
+    <authors>Delta.Guis.Wpf</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.Guis.Wpf\bin\Debug\net5.0-windows\Delta.Guis.Wpf.dll" target="lib\net5.0-windows7.0\Delta.Guis.Wpf.dll" />
+  </files>
+</package>

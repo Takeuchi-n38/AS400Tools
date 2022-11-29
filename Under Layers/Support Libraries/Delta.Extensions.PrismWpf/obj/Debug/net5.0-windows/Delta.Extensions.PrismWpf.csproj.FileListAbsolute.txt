@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\bin\Debug\net5.0-windows\Delta.Extensions.PrismWpf.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\bin\Debug\net5.0-windows\Delta.Extensions.PrismWpf.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\bin\Debug\net5.0-windows\Delta.Extensions.PrismWpf.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\refint\Delta.Extensions.PrismWpf.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\Delta.Extensions.PrismWpf.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.PrismWpf\obj\Debug\net5.0-windows\ref\Delta.Extensions.PrismWpf.dll

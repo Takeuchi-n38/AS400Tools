@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0.13</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="PostgresDbContext.cs" />
+		<Compile Remove="PostgresViewRepository.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Delta.RelationalDatabases.Domain" Version="1.0.0.6" />
+		<PackageReference Include="Npgsql" Version="6.0.3" />
+	</ItemGroup>
+
+</Project>

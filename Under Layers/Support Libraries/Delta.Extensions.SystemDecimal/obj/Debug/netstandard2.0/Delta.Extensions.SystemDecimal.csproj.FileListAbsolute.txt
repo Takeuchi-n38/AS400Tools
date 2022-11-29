@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\bin\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\bin\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\bin\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Extensions.SystemDecimal\obj\Debug\netstandard2.0\Delta.Extensions.SystemDecimal.pdb

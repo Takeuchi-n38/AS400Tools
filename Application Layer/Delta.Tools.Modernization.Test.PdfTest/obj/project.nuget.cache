@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiNKDQFZ5cp5n7c1hzXAhnblC7hKwi5lagWOIC5cp7tutuaZugQ7sd8g8mf99Qgfs0sA+ZRJ4l/x2nUy6iN5UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\Delta.Tools.Modernization.Test.PdfTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.datatypes.characters\\1.0.0.4\\delta.as400.datatypes.characters.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.ddss.domain\\1.0.0.11\\delta.as400.ddss.domain.1.0.0.11.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.ddss.printers.domain\\1.0.0.13\\delta.as400.ddss.printers.domain.1.0.0.13.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.printers.pdf\\1.0.0.13\\delta.as400.printers.pdf.1.0.0.13.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

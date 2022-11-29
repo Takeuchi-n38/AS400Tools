@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1mD1v8yp/QiRk4/Bx6qmmVqKDJRe6/jkXjwN3aNIYNkAR61Ksn3BM7DbIAvf4qp4NeqGJXBc5E/ahB+hXazoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.datatypes.characters\\1.0.0.4\\delta.as400.datatypes.characters.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.indicators\\1.0.0.2\\delta.as400.indicators.1.0.0.2.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\reactiveproperty\\7.12.0\\reactiveproperty.7.12.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\reactiveproperty.core\\7.12.0\\reactiveproperty.core.7.12.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

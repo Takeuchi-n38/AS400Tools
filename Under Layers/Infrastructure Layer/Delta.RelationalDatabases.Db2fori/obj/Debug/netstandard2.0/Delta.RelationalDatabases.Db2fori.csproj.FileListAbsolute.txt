@@ -1,0 +1,10 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\bin\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\bin\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\bin\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.RelationalDatabases.Db2fori\obj\Debug\netstandard2.0\Delta.RelationalDatabases.Db2fori.pdb

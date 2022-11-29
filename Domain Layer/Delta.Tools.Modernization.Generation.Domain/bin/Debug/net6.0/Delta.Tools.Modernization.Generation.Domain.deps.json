@@ -1,0 +1,196 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delta.Tools.Modernization.Generation.Domain/1.0.0": {
+        "dependencies": {
+          "Delta.Tools.Modernization.Domain": "1.0.0.1"
+        },
+        "runtime": {
+          "Delta.Tools.Modernization.Generation.Domain.dll": {}
+        }
+      },
+      "Delta.AS400.Core/1.0.0.9": {
+        "runtime": {
+          "lib/netstandard2.0/Delta.AS400.Core.dll": {
+            "assemblyVersion": "1.0.0.9",
+            "fileVersion": "1.0.0.9"
+          }
+        }
+      },
+      "Delta.AS400.DataTypes.Characters/1.0.0.4": {
+        "dependencies": {
+          "Delta.Extensions.SystemByte": "1.0.0.5",
+          "Delta.Extensions.SystemTextEncoding": "1.0.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Delta.AS400.DataTypes.Characters.dll": {
+            "assemblyVersion": "1.0.0.4",
+            "fileVersion": "1.0.0.4"
+          }
+        }
+      },
+      "Delta.Extensions.SystemByte/1.0.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/Delta.Extensions.SystemByte.dll": {
+            "assemblyVersion": "1.0.0.5",
+            "fileVersion": "1.0.0.5"
+          }
+        }
+      },
+      "Delta.Extensions.SystemIO/1.0.0.4": {
+        "dependencies": {
+          "Delta.Extensions.SystemTextEncoding": "1.0.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Delta.Extensions.SystemIO.dll": {
+            "assemblyVersion": "1.0.0.4",
+            "fileVersion": "1.0.0.4"
+          }
+        }
+      },
+      "Delta.Extensions.SystemString/1.0.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Delta.Extensions.SystemString.dll": {
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
+          }
+        }
+      },
+      "Delta.Extensions.SystemTextEncoding/1.0.0.1": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Delta.Extensions.SystemTextEncoding.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "Delta.Tools.Modernization.Paths.Domain/1.0.0.4": {
+        "dependencies": {
+          "Delta.Extensions.SystemIO": "1.0.0.4",
+          "Delta.Extensions.SystemString": "1.0.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Delta.Tools.Modernization.Paths.Domain.dll": {
+            "assemblyVersion": "1.0.0.4",
+            "fileVersion": "1.0.0.4"
+          }
+        }
+      },
+      "Delta.Types.Fundamentals/1.0.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Delta.Types.Fundamentals.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      },
+      "Delta.Tools.Modernization.Domain/1.0.0.1": {
+        "dependencies": {
+          "Delta.AS400.Core": "1.0.0.9",
+          "Delta.AS400.DataTypes.Characters": "1.0.0.4",
+          "Delta.Tools.Modernization.Paths.Domain": "1.0.0.4",
+          "Delta.Types.Fundamentals": "1.0.0.2"
+        },
+        "runtime": {
+          "Delta.Tools.Modernization.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delta.Tools.Modernization.Generation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delta.AS400.Core/1.0.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Izj9XCxHrgxWHYm0ExlnjYuiFCCyFxmS13jUCKucPV84VM0gBSIXjZko+gJ+cLGpQKg8n1ZNwJSZ3nInQVs6mQ==",
+      "path": "delta.as400.core/1.0.0.9",
+      "hashPath": "delta.as400.core.1.0.0.9.nupkg.sha512"
+    },
+    "Delta.AS400.DataTypes.Characters/1.0.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b258DyK74bMF5DxRTTbmY85Y5YONdhHXdz0okix4eB2+P9H/f7SpJBBbNKJJlztffcuEfCIqItNdxypVfwvTzw==",
+      "path": "delta.as400.datatypes.characters/1.0.0.4",
+      "hashPath": "delta.as400.datatypes.characters.1.0.0.4.nupkg.sha512"
+    },
+    "Delta.Extensions.SystemByte/1.0.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/zQUJhI2UtMystYY7Yu3yMSWktO3ol4blfVPClf5gFWMhmxj7psMeOnfzMxF9TDRjPOJRf9bC465y1Yn8L/eKw==",
+      "path": "delta.extensions.systembyte/1.0.0.5",
+      "hashPath": "delta.extensions.systembyte.1.0.0.5.nupkg.sha512"
+    },
+    "Delta.Extensions.SystemIO/1.0.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J3VfX38yOaJTL7uGcXpVF9czzqCYvDSWECSMsixilW+zF6Jq9Smz+2dIojMiY5MznrDWfDIfAzh7WkFAgnRXVw==",
+      "path": "delta.extensions.systemio/1.0.0.4",
+      "hashPath": "delta.extensions.systemio.1.0.0.4.nupkg.sha512"
+    },
+    "Delta.Extensions.SystemString/1.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ugw0zJWVbZbRulTq2cQVbViwPHqPfhvQRpGXNT6zzxnx02q53w0KtZFIccPlLZ3p+txPi6rhcavN1NnJ4Gk5NQ==",
+      "path": "delta.extensions.systemstring/1.0.0.3",
+      "hashPath": "delta.extensions.systemstring.1.0.0.3.nupkg.sha512"
+    },
+    "Delta.Extensions.SystemTextEncoding/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pHB+qmBK+r4mTcq2wEteGunTiBBW1nbLOQYLSi6D16KJJ3o6a5bSXffOqWZNX2/3L8/r+rdRDw+BKHAF+dMiRg==",
+      "path": "delta.extensions.systemtextencoding/1.0.0.1",
+      "hashPath": "delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512"
+    },
+    "Delta.Tools.Modernization.Paths.Domain/1.0.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j5II6PY8lsusPuudVKQgU2hl9DQMW+8lve/YJoKtrTcND0WHoE+02Umhi+01917KLZvYiIK1txFHj6Ac3zwZXg==",
+      "path": "delta.tools.modernization.paths.domain/1.0.0.4",
+      "hashPath": "delta.tools.modernization.paths.domain.1.0.0.4.nupkg.sha512"
+    },
+    "Delta.Types.Fundamentals/1.0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zaltP6iVWSX+/DCiuzcRBopvc7iBT85OPE+OM6G21hV+ZQd2zI6FjDLFlXDcPZeFDFCehsa6gQkLmSe85BWprw==",
+      "path": "delta.types.fundamentals/1.0.0.2",
+      "hashPath": "delta.types.fundamentals.1.0.0.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    },
+    "Delta.Tools.Modernization.Domain/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

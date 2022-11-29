@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Delta.Tools.AS400.Koubai01.Baalib</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Under Layers\Domain Layer\Delta.Koubai01.Domain\Delta.Koubai01.Domain.csproj" />
+    <ProjectReference Include="..\Delta.Tools.Modernization.Domain\Delta.Tools.Modernization.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

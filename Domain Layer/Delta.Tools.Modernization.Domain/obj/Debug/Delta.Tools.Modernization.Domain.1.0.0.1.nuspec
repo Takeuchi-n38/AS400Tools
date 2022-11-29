@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Delta.Tools.Modernization.Domain</id>
+    <version>1.0.0.1</version>
+    <authors>Delta.Tools.Modernization.Domain</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Delta.AS400.Core" version="1.0.0.9" exclude="Build,Analyzers" />
+        <dependency id="Delta.AS400.DataTypes.Characters" version="1.0.0.4" exclude="Build,Analyzers" />
+        <dependency id="Delta.Tools.Modernization.Paths.Domain" version="1.0.0.4" exclude="Build,Analyzers" />
+        <dependency id="Delta.Types.Fundamentals" version="1.0.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Delta\Solutions\Delta.AS400.Tools\Domain Layer\Delta.Tools.Modernization.Domain\bin\Debug\net6.0\Delta.Tools.Modernization.Domain.dll" target="lib\net6.0\Delta.Tools.Modernization.Domain.dll" />
+  </files>
+</package>

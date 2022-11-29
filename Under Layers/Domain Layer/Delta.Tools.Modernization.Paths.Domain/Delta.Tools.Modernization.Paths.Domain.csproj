@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0.4</Version>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Delta.Extensions.SystemIO" Version="1.0.0.4" />
+		<PackageReference Include="Delta.Extensions.SystemString" Version="1.0.0.3" />
+	</ItemGroup>
+</Project>

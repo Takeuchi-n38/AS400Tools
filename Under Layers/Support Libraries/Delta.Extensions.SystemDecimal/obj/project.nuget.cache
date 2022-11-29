@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzUKsgjP1kUXSMKn4sv7OIacxm+7nF51YI5FtbzcMwV6dERG4R1L0JlTAH6v+d4sm+nLGHr1fN57YwWENUO8yw==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemDecimal\\Delta.Extensions.SystemDecimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

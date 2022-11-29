@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<RootNamespace>Delta.AS400</RootNamespace>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0.9</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Objects\Files\**" />
+		<Compile Remove="Objects\Programs\**" />
+		<EmbeddedResource Remove="Objects\Files\**" />
+		<EmbeddedResource Remove="Objects\Programs\**" />
+		<None Remove="Objects\Files\**" />
+		<None Remove="Objects\Programs\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="Objects\ObjectType.cs" />
+	</ItemGroup>
+
+</Project>

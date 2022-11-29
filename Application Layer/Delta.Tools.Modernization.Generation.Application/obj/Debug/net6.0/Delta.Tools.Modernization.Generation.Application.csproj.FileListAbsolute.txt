@@ -1,0 +1,12 @@
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\bin\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.deps.json
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\bin\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\bin\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.AssemblyInfo.cs
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\refint\Delta.Tools.Modernization.Generation.Application.dll
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\Delta.Tools.Modernization.Generation.Application.pdb
+C:\Delta\Solutions\Delta.AS400.Tools\Application Layer\Delta.Tools.Modernization.Generation.Application\obj\Debug\net6.0\ref\Delta.Tools.Modernization.Generation.Application.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpgVff1495UODUhxVaggm8SiuuqUF0VgG4n4LKhQUkKVLjbEUmIdq+2Z6LBOjqqLHVaOJ64qVc/xXYy4pEjC7g==",
+  "success": true,
+  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Environments\\Delta.AS400.Environments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.types.dates\\1.0.0.6\\delta.types.dates.1.0.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

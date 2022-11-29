@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Delta.Tools.Modernization.Analytics</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain Layer\Delta.Tools.Modernization.Domain\Delta.Tools.Modernization.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
