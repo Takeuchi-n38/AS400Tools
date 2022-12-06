@@ -5771,11 +5771,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte.Tests\\Delta.Extensions.SystemByte.Tests.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte.Tests\\Delta.Extensions.SystemByte.Tests.csproj",
       "projectName": "Delta.Extensions.SystemByte.Tests",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte.Tests\\Delta.Extensions.SystemByte.Tests.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte.Tests\\Delta.Extensions.SystemByte.Tests.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte.Tests\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5795,8 +5795,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj"
             }
           }
         }

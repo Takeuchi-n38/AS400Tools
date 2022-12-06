@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+S8qqhcsqCsEAVy2RxB5rG6403reB4l6bk3A4fvahmxSBCbiH0ZCa3sYa2LUnyO9UYUJGwPpa5Haik75L8mNGQ==",
+  "dgSpecHash": "Ln/6mtDNRrSATwiRZsFHUaE+CyuV92cCID8xnY4/5YFbXnP/rHWB5u8q3bTg817HI8j4IOUDe54tB8jOsfrdsA==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemdecimal\\1.0.0.2\\delta.extensions.systemdecimal.1.0.0.2.nupkg.sha512",

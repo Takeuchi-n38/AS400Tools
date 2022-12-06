@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0.5",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj",
       "projectName": "Delta.Extensions.SystemByte",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\Delta.Extensions.SystemByte.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemByte\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

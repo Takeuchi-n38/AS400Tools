@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
       "version": "1.0.0.9",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
         "projectName": "Delta.AS400.Core",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

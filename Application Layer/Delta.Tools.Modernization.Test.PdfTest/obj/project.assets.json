@@ -563,11 +563,11 @@
   "project": {
     "version": "1.0.0.2",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\Delta.Tools.Modernization.Test.PdfTest.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\Delta.Tools.Modernization.Test.PdfTest.csproj",
       "projectName": "Delta.Tools.Modernization.Test.PdfTest",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\Delta.Tools.Modernization.Test.PdfTest.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\Delta.Tools.Modernization.Test.PdfTest.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.PdfTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

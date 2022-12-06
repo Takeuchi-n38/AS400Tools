@@ -6479,11 +6479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit.Tests\\Delta.Mails.MailKit.Tests.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit.Tests\\Delta.Mails.MailKit.Tests.csproj",
       "projectName": "Delta.Mails.MailKit.Tests",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit.Tests\\Delta.Mails.MailKit.Tests.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit.Tests\\Delta.Mails.MailKit.Tests.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit.Tests\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6503,8 +6503,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit\\Delta.Mails.MailKit.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit\\Delta.Mails.MailKit.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit\\Delta.Mails.MailKit.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Mails.MailKit\\Delta.Mails.MailKit.csproj"
             }
           }
         }

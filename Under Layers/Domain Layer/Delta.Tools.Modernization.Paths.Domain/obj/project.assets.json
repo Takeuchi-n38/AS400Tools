@@ -494,11 +494,11 @@
   "project": {
     "version": "1.0.0.4",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
       "projectName": "Delta.Tools.Modernization.Paths.Domain",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

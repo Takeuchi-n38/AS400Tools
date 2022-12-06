@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj": {
       "version": "1.0.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj",
         "projectName": "Delta.AS400.Workstations.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj",
         "projectName": "Delta.Guis.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\Delta.Guis.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Guis.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj": {
       "version": "1.0.0.5",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj",
         "projectName": "Delta.AS400.Workstations.PrismCore",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\Delta.AS400.Workstations.PrismCore.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.AS400.Workstations.PrismCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -169,11 +169,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Workstations.Domain\\Delta.AS400.Workstations.Domain.csproj"
               },
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj": {
       "version": "1.0.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
         "projectName": "Delta.Guis.Wpf",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

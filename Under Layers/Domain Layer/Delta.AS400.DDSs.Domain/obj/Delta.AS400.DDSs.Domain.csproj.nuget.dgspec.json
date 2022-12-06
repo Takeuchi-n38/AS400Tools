@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj": {
       "version": "1.0.0.11",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj",
         "projectName": "Delta.AS400.DDSs.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\Delta.AS400.DDSs.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

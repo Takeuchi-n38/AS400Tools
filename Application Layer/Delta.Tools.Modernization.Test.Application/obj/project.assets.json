@@ -7162,11 +7162,11 @@
   "project": {
     "version": "1.0.0.53",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj",
       "projectName": "Delta.Tools.Modernization.Test.Application",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

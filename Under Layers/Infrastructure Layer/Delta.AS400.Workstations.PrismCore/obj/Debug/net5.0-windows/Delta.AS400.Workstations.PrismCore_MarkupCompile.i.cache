@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Infrastructure Layer\Delta.AS400.Workstations.PrismCore\obj\Debug\net5.0-windows\
+C:\Delta\Solutions\Deb\Under Layers\Infrastructure Layer\Delta.AS400.Workstations.PrismCore\obj\Debug\net5.0-windows\
 Delta.AS400.Workstations
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 2-1975181502
 
 12-1532531717
-210-953974451
+210953177230
 Sndusrmsgs\SndUsrInfMsgView.xaml;Sndusrmsgs\SndUsrInqMsgView.xaml;
 
 False

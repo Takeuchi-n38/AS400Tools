@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0.2",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
       "projectName": "Delta.Types.Fundamentals",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HCNzXvebP+BNIV8L/Cq95d7H+iBbhWMFvgyGDjIgRwUo3Hkxhm7Ucopp6VuuDJzoxaYObZ5bgbyibPWzJMLcsg==",
+  "dgSpecHash": "tLmR5F//jyPTaspfh0jI5iZydyExyv5q03hHHhgZk29CpHKgLFwlyAOH6kKk9TkkwqeyffbcAzLr7GakJlizVA==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemChar\\Delta.Extensions.SystemChar.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemChar\\Delta.Extensions.SystemChar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

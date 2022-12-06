@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj": {
       "version": "1.0.0.4",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj",
         "projectName": "Delta.Extensions.SystemIO",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

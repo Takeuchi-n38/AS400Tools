@@ -517,11 +517,11 @@
   "project": {
     "version": "1.0.0.13",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\Delta.AS400.DDSs.Printers.Domain.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\Delta.AS400.DDSs.Printers.Domain.csproj",
       "projectName": "Delta.AS400.DDSs.Printers.Domain",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\Delta.AS400.DDSs.Printers.Domain.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\Delta.AS400.DDSs.Printers.Domain.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.DDSs.Printers.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

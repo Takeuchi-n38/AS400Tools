@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj": {
       "version": "1.0.0.4",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj",
         "projectName": "Delta.Mails.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\Delta.Mails.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Mails.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

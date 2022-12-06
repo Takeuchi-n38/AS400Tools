@@ -1131,7 +1131,8 @@ namespace Delta.Tools.Modernization.Analytics
                         case "U":
                             throw new ArgumentException();
                         case "O":
-                            throw new ArgumentException();
+                            isudMemo = isudNull;
+                            break;
                         case "C":
                             isudMemo = isudNull;
                             break;

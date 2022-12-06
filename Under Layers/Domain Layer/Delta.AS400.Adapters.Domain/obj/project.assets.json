@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0.2",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Adapters.Domain\\Delta.AS400.Adapters.Domain.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Adapters.Domain\\Delta.AS400.Adapters.Domain.csproj",
       "projectName": "Delta.AS400.Adapters.Domain",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Adapters.Domain\\Delta.AS400.Adapters.Domain.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Adapters.Domain\\Delta.AS400.Adapters.Domain.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.AS400.Adapters.Domain\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.AS400.Adapters.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

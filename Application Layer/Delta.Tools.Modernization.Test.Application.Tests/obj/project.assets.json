@@ -9372,11 +9372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application.Tests\\Delta.Tools.Modernization.Test.Application.Tests.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application.Tests\\Delta.Tools.Modernization.Test.Application.Tests.csproj",
       "projectName": "Delta.Tools.Modernization.Test.Application.Tests",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application.Tests\\Delta.Tools.Modernization.Test.Application.Tests.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application.Tests\\Delta.Tools.Modernization.Test.Application.Tests.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application.Tests\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9396,14 +9396,14 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Entities.Domain\\Delta.Entities.Domain.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Entities.Domain\\Delta.Entities.Domain.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Entities.Domain\\Delta.Entities.Domain.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Entities.Domain\\Delta.Entities.Domain.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj"
             }
           }
         }

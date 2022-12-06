@@ -227,11 +227,11 @@
   "project": {
     "version": "1.0.0.7",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj",
       "projectName": "Delta.AS400.DataTypes.Numerics",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\Delta.AS400.DataTypes.Numerics.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Numerics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

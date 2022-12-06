@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj",
       "projectName": "Delta.Tools.Modernization.Analytics.Application",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -321,8 +321,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj"
             }
           }
         }

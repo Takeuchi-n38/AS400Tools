@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delta.Honsha01.HI_LIB.Tools", "Delta.Honsha01.HI_LIB.Tools\Delta.Honsha01.HI_LIB.Tools.csproj", "{FE4537F5-4861-420A-9C8E-79CA18EB0B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4537F5-4861-420A-9C8E-79CA18EB0B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4537F5-4861-420A-9C8E-79CA18EB0B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4537F5-4861-420A-9C8E-79CA18EB0B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4537F5-4861-420A-9C8E-79CA18EB0B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3008C32-5B3B-4463-B0CD-6FC100E82A98}
+	EndGlobalSection
+EndGlobal

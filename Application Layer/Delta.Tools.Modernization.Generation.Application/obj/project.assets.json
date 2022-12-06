@@ -6226,11 +6226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj",
       "projectName": "Delta.Tools.Modernization.Generation.Application",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6250,17 +6250,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.DIGenerator.Application\\Delta.Tools.Modernization.Generation.DIGenerator.Application.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.DIGenerator.Application\\Delta.Tools.Modernization.Generation.DIGenerator.Application.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.DIGenerator.Application\\Delta.Tools.Modernization.Generation.DIGenerator.Application.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.DIGenerator.Application\\Delta.Tools.Modernization.Generation.DIGenerator.Application.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.RepoGenerator.Application\\Delta.Tools.Modernization.Generation.RepoGenerator.Application.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.RepoGenerator.Application\\Delta.Tools.Modernization.Generation.RepoGenerator.Application.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.RepoGenerator.Application\\Delta.Tools.Modernization.Generation.RepoGenerator.Application.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.RepoGenerator.Application\\Delta.Tools.Modernization.Generation.RepoGenerator.Application.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj"
             }
           }
         }

@@ -3,6 +3,7 @@ using Delta.AS400.Objects;
 using Delta.Tools.AS400.Jobs;
 using Delta.Tools.AS400.Objects;
 using Delta.Tools.AS400.Programs.CLs.Lines.Libs;
+using Delta.Tools.AS400.Programs.RPGs.Forms.Extensions.Dims;
 using Delta.Tools.Modernization.Sources.AS400.Programs.CLs.Lines;
 using Delta.Tools.Sources.Statements;
 using Delta.Utilities.Extensions.SystemString;
@@ -532,6 +533,12 @@ SAVOBJ OBJ(WARIMR BROAD CALEND* PRCALN* PSMSTR* IMDATA* IMMSTR*) LIB(&PRD) DEV(*
             if (!joinedLine.Contains("PGM") && pgm == string.Empty)
             {
                 pgm = joinedLine.Replace("CALL","").Trim();
+            }
+
+            if (pgm.Contains("(&"))
+            {
+                string[] Splngh = pgm.Split(" ");
+                pgm = Splngh[0];
             }
 
             if (pgm == "CMENOK")

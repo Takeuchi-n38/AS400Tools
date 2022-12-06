@@ -8,3 +8,13 @@ C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Koubai01.Do
 C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.csproj.CoreCompileInputs.cache
 C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.dll
 C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.pdb
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\bin\Debug\netstandard2.0\Delta.Koubai01.Domain.deps.json
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\bin\Debug\netstandard2.0\Delta.Koubai01.Domain.dll
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\bin\Debug\netstandard2.0\Delta.Koubai01.Domain.pdb
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.csproj.AssemblyReference.cache
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.AssemblyInfoInputs.cache
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.AssemblyInfo.cs
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.csproj.CoreCompileInputs.cache
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.dll
+C:\Delta\Solutions\Deb\Under Layers\Domain Layer\Delta.Koubai01.Domain\obj\Debug\netstandard2.0\Delta.Koubai01.Domain.pdb

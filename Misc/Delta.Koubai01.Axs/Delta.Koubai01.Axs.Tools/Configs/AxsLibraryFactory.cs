@@ -18,14 +18,21 @@ namespace Delta.Koubai01.Axs.Tools.Configs
                    
         }
         public static Library Axs = Library.Of(Partition.Koubai01, "AXS");
+        public static Library Aaflib = Library.Of(Partition.Koubai01, "AAFLIB");
         public static Library Qtemp = Library.Of(Partition.Koubai01, "QTEMP");
 
         public static AxsLibraryFactory Of(Library aMainLibrary)
         {
             var ReferLibraries = new List<Library>(){
                 Axs,
+                Koubai01LibraryList.Axd0001,
+                Koubai01LibraryList.Vaalib,
+                Aaflib,
+                Koubai01LibraryList.Wsvflib,
                 Koubai01LibraryList.Oplib,
                 Koubai01LibraryList.Prodlib,
+                Koubai01LibraryList.Comnlib,
+                Koubai01LibraryList.Qgpl,
                 //Koubai01LibraryList.Cds,
                 Qtemp,
         };

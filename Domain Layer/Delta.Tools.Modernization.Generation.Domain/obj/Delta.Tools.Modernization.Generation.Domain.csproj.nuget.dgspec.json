@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj",
         "projectName": "Delta.Tools.Modernization.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,17 +31,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj"
               },
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj"
               },
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj"
               },
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj",
         "projectName": "Delta.Tools.Modernization.Generation.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj": {
       "version": "1.0.0.4",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
         "projectName": "Delta.Tools.Modernization.Paths.Domain",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\Delta.Tools.Modernization.Paths.Domain.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Tools.Modernization.Paths.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -206,14 +206,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
       "version": "1.0.0.9",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
         "projectName": "Delta.AS400.Core",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -267,14 +267,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj": {
       "version": "1.0.0.4",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj",
         "projectName": "Delta.AS400.DataTypes.Characters",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -336,14 +336,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj": {
       "version": "1.0.0.2",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
         "projectName": "Delta.Types.Fundamentals",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\Delta.Types.Fundamentals.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Types.Fundamentals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

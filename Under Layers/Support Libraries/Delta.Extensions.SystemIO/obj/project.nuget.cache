@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nS7ZJ0Q1R+cAOspkbnr2Nz8K80G9kHv1e4sgpMow5Eq/Tqo5HIaCG908dUqxunY1u+gCgNodCvkbENCW/lVW9Q==",
+  "dgSpecHash": "FPDCOow2Ye1clg5th7HHs46eyYXSRKwA+cjqNa38nqyksOJqMOTRwsbdARU3lVNZQ3wH3p2LncPOK/T9dXtJkw==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemIO\\Delta.Extensions.SystemIO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

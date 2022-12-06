@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEvGCCfEtctzGCd6d34TaxZ9jcATmvh3HiziX4TB0l26gO6CsVaxa99YLVnlP1KyXT2S2O2PyEwHo6xbxO9fug==",
+  "dgSpecHash": "cVs2EoHu4YI9+s1jppFQtswSdaOuV4T1Ej0OFhzDAIwQ4zZcvP7BtR4a9OxLiLo3nOezuJf0cSW2ZsV4avDfIg==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Dates\\Delta.AS400.Dates.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Dates\\Delta.AS400.Dates.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

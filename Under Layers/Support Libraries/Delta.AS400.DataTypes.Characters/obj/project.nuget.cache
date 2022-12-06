@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EX/++jnXyvqpXw9dtfABpze7zC1xizFd3s+STVVZQ3Y1R3p/4EWbavbwywBKXTgBu/12CqNW43J8OFaPWcFytg==",
+  "dgSpecHash": "6byExd8hViNkI8fEpJ5FoVTPVjjhEw5wo7sOb6Hs9/+FBUZHTnMvxCen54NYuL60uLW3ZKbnCjW3LzxHqOwhxw==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.DataTypes.Characters\\Delta.AS400.DataTypes.Characters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systembyte\\1.0.0.5\\delta.extensions.systembyte.1.0.0.5.nupkg.sha512",
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.extensions.systemtextencoding\\1.0.0.1\\delta.extensions.systemtextencoding.1.0.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y6wC5NXKztcDD8pqYj2O/3OBy5JfItHzV0al7t6oF9M4HRXGl4mqsasgEXMd6VJEljyxcs7OCkX454t3Kk3mDg==",
+  "dgSpecHash": "+SU1mHe4e7YwrxWyNr0eADvvC3QGGaXHtnEYED6zGHfBR5dT82sAx2W+yksQ918cjFJiaY2anfJT5sQcrOJcxQ==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

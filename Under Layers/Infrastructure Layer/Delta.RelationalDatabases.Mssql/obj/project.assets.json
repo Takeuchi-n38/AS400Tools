@@ -6459,11 +6459,11 @@
   "project": {
     "version": "1.0.0.10",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj",
       "projectName": "Delta.RelationalDatabases.Mssql",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\Delta.RelationalDatabases.Mssql.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Mssql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

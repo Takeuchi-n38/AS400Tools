@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
       "projectName": "Delta.Guis.Wpf",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\Delta.Guis.Wpf.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.Guis.Wpf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

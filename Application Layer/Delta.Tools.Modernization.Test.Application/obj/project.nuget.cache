@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvH+0B+egI8JkyK+YVWp7clGXE2x6duL9ECMbCCfpfvQ1R48u1xDgSyL/FA18AqAw8gnlpZGAPz2ls+DparawA==",
+  "dgSpecHash": "cxGYCiMIhH1+Pt6gbvMl5H/x/NUurjBf40HffGt64vB3C3CyzDlWjV11zksCmfXtJqpzkJauc7yPe61pN23Q7Q==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Test.Application\\Delta.Tools.Modernization.Test.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.adapters.domain\\1.0.0.2\\delta.as400.adapters.domain.1.0.0.2.nupkg.sha512",
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\delta.as400.core\\1.0.0.9\\delta.as400.core.1.0.0.9.nupkg.sha512",

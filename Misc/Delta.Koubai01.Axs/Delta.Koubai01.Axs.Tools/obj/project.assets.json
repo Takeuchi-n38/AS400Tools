@@ -9024,11 +9024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Misc\\Delta.Koubai01.Axs\\Delta.Koubai01.Axs.Tools\\Delta.Koubai01.Axs.Tools.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Misc\\Delta.Koubai01.Axs\\Delta.Koubai01.Axs.Tools\\Delta.Koubai01.Axs.Tools.csproj",
       "projectName": "Delta.Koubai01.Axs.Tools",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Misc\\Delta.Koubai01.Axs\\Delta.Koubai01.Axs.Tools\\Delta.Koubai01.Axs.Tools.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Misc\\Delta.Koubai01.Axs\\Delta.Koubai01.Axs.Tools\\Delta.Koubai01.Axs.Tools.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Misc\\Delta.Koubai01.Axs\\Delta.Koubai01.Axs.Tools\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Misc\\Delta.Koubai01.Axs\\Delta.Koubai01.Axs.Tools\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9048,23 +9048,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Analytics.Application\\Delta.Tools.Modernization.Analytics.Application.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Application Layer\\Delta.Tools.Modernization.Generation.Application\\Delta.Tools.Modernization.Generation.Application.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Domain\\Delta.Tools.Modernization.Domain.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Domain Layer\\Delta.Tools.Modernization.Generation.Domain\\Delta.Tools.Modernization.Generation.Domain.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Koubai01.Domain\\Delta.Koubai01.Domain.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.Koubai01.Domain\\Delta.Koubai01.Domain.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Koubai01.Domain\\Delta.Koubai01.Domain.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.Koubai01.Domain\\Delta.Koubai01.Domain.csproj"
             },
-            "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
-              "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj"
+            "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj": {
+              "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.AS400.Core\\Delta.AS400.Core.csproj"
             }
           }
         }

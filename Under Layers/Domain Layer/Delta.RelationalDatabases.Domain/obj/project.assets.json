@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0.6",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.RelationalDatabases.Domain\\Delta.RelationalDatabases.Domain.csproj",
+      "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.RelationalDatabases.Domain\\Delta.RelationalDatabases.Domain.csproj",
       "projectName": "Delta.RelationalDatabases.Domain",
-      "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.RelationalDatabases.Domain\\Delta.RelationalDatabases.Domain.csproj",
+      "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.RelationalDatabases.Domain\\Delta.RelationalDatabases.Domain.csproj",
       "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Domain Layer\\Delta.RelationalDatabases.Domain\\obj\\",
+      "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Domain Layer\\Delta.RelationalDatabases.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

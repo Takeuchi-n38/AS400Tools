@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj": {
       "version": "1.0.0.17",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj",
         "projectName": "Delta.RelationalDatabases.Db2fori",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\Delta.RelationalDatabases.Db2fori.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Db2fori\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

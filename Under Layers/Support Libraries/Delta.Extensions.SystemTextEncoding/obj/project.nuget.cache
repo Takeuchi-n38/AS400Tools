@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cu8hng3D47k4h+OpWLyoBoS5YLMX8XyiYcO7F6LBbKR7lnXX7CJ38ivi/EvxG0b3DpzrWArIKiuyHX//Tx3cuw==",
+  "dgSpecHash": "CoSMjYNY+CdEovpyMDBO8MhegPlHqHMAJH+gJwPkINK+fl6sUhB2BhhZB/h6/W6uh+20bgSClprEIqw3OaBs0g==",
   "success": true,
-  "projectFilePath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Support Libraries\\Delta.Extensions.SystemTextEncoding\\Delta.Extensions.SystemTextEncoding.csproj",
+  "projectFilePath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Support Libraries\\Delta.Extensions.SystemTextEncoding\\Delta.Extensions.SystemTextEncoding.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\takeuchi-n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

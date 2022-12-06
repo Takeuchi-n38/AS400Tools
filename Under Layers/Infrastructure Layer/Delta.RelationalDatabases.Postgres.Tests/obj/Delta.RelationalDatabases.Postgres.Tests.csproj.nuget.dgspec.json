@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj": {}
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj",
         "projectName": "Delta.RelationalDatabases.Postgres.Tests",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\Delta.RelationalDatabases.Postgres.Tests.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj": {
-                "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj"
+              "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj": {
+                "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj": {
+    "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj": {
       "version": "1.0.0.13",
       "restore": {
-        "projectUniqueName": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj",
+        "projectUniqueName": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj",
         "projectName": "Delta.RelationalDatabases.Postgres",
-        "projectPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj",
+        "projectPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\Delta.RelationalDatabases.Postgres.csproj",
         "packagesPath": "C:\\Users\\takeuchi-n\\.nuget\\packages\\",
-        "outputPath": "C:\\Delta\\Solutions\\Delta.AS400.Tools\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\obj\\",
+        "outputPath": "C:\\Delta\\Solutions\\Deb\\Under Layers\\Infrastructure Layer\\Delta.RelationalDatabases.Postgres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takeuchi-n\\AppData\\Roaming\\NuGet\\NuGet.Config",

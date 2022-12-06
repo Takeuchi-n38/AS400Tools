@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "Delta.Honsha01.Domain/1.0.0.10": {
+      "Delta.Honsha01.Domain/1.0.0.9": {
         "dependencies": {
           "Delta.AS400.Core": "1.0.0.9",
           "NETStandard.Library": "2.0.3"
@@ -33,7 +33,7 @@
     }
   },
   "libraries": {
-    "Delta.Honsha01.Domain/1.0.0.10": {
+    "Delta.Honsha01.Domain/1.0.0.9": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Delta.Types.Dates
-build_property.ProjectDir = C:\Delta\Solutions\Delta.AS400.Tools\Under Layers\Support Libraries\Delta.Types.Dates\
+build_property.ProjectDir = C:\Delta\Solutions\Deb\Under Layers\Support Libraries\Delta.Types.Dates\
